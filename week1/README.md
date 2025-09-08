@@ -6,10 +6,10 @@ The task focused on analyzing the **Bike Buyers dataset** using Excel pivot tabl
 ---
 
 ## 📂 Files Included
-- **bike_buyers_data.xlsx** → Original dataset  
+- **bike_buyers.xlsx** → Original dataset  
 - **bike_buyers - Calculations.pdf** → Pivot table summaries  
 - **bike_buyers - Dashboard.pdf** → Final Excel dashboard  
-- **qns.docx** → Case study questions along with answers
+- **bike_buyers - Questions.pdf** → Case study questions along with answers
 
 ---
 
