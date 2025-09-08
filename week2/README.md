@@ -23,6 +23,5 @@ The focus is on:
 ---
 
 ## 📂 Files
-- [frog_leap.ipynb](frog_leap.ipynb) → Local notebook stored in this repo  
-- [Open in Google Colab](https://colab.research.google.com/drive/1tJm5-bwFHKC3XLJ-T59JwLesMFOwZd1b?usp=sharing) → Run the notebook directly in Colab
+- [frog_project](https://colab.research.google.com/drive/1tJm5-bwFHKC3XLJ-T59JwLesMFOwZd1b?usp=sharing) → Run the notebook directly in Colab
 
