@@ -25,3 +25,10 @@ The task focused on analyzing the **Bike Buyers dataset** using Excel pivot tabl
 ## 📊 Outcome
 Week 1 demonstrated how simple demographic and financial factors can be used to understand customer behavior.  
 By combining pivot tables with dashboards, clear insights were derived that connect income, age, region, and marital status with purchase decisions.
+
+---
+
+## 📊 Dashboard
+
+Check out the interactive dashboard summarizing the Week 1 insights:  
+👉 [Week 1 Dashboard](https://docs.google.com/spreadsheets/d/1D6UkBPY9URkE65MBb79KDWAPLd54j9C5YZ90-g2h3zM/edit?gid=42824758#gid=42824758)
