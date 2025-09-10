@@ -14,7 +14,7 @@ I worked on two datasets, each covering a different aspect of data preprocessing
 ---
 
 ### Dataset 2 – Data Type Validation (Chipotle Dataset)
-- **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1ofngvTFDQMRl2bN6f3XtVEvYfYrteJJU#scrollTo=VrP03s-DvyNP)  
+- **Google Colab Notebook:** [Click to view](https://colab.research.google.com/drive/1ofngvTFDQMRl2bN6f3XtVEvYfYrteJJU?usp=sharing)  
 - **Description:** This analysis verifies and corrects the **data types** of columns like *Order ID, Quantity, Item Name, Choice Description, and Item Price*. The goal is to ensure each variable matches its intended type for accurate analysis.  
 
 ---
