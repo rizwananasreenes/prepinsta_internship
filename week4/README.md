@@ -18,11 +18,12 @@ This week builds on Week 3 by finalizing the cleaning steps, merging datasets, a
      - **X-axis**: Fertility Rate  
      - **Y-axis**: Life Expectancy  
      - **Bubble size**: Population  
-     - **Color**: Region (with legend)
+     - **Color**: Region (with legend)  
+   - 🔗 [Open Week 4 Colab Notebook](https://colab.research.google.com/drive/1_co_svSlldeDbqODXPUlvnAkLsDnW8AE?usp=sharing)
 
 3. **Output**
-   - Interactive animation showing demographic & health changes from 1960 onwards.
-   - Exported animation to `.mp4` for sharing.
+   - Interactive animation showing demographic & health changes from 1960 onwards.  
+   - Exported animation to `.mp4` for sharing.  
 
 ---
 
